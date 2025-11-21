@@ -54,7 +54,7 @@ streamlit run app.py
 ---
 
 ## 🖼️ Screenshots
-![App Screenshot](url-to-screenshot-if-you-upload-one)
+![App Screenshot](https://github.com/ichithekilla/ai-lyric-composer/blob/main/assets/app_screenshot2.png)
 
 ---
 
