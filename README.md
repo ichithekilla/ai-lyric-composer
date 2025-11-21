@@ -6,7 +6,7 @@ Generate original, creative song lyrics with customizable structure using AI (GP
 
 ## 🚀 Live Demo
 
-*Deploy this app yourself on [Streamlit Cloud](https://share.streamlit.io), or run locally!*
+*Deploy this app yourself on [Streamlit Cloud](https://ai-lyric-composer-2ddetbrtffaaqdneqtssyt.streamlit.app/), or run locally!*
 
 ---
 
